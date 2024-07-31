@@ -1,0 +1,3 @@
+C:/Users/ccusc/Documents/Utec/Ciclo - 2023 II/Progra_III/Proyecto/Mixing patrones/cmake-build-debug/CMakeFiles/Proyecto.dir
+C:/Users/ccusc/Documents/Utec/Ciclo - 2023 II/Progra_III/Proyecto/Mixing patrones/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ccusc/Documents/Utec/Ciclo - 2023 II/Progra_III/Proyecto/Mixing patrones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
